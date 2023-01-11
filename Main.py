@@ -1,0 +1,8 @@
+print("This is second file")
+print("That's a joke")
+print("No, that real")
+print("Thu nha")
+print("Hello")
+print("NCKH")
+print("1")
+print("OK")
